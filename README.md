@@ -29,9 +29,9 @@ The uploaded CSV file should contain:
 Example:
 
 ```csv
-Accel_X,Accel_Y,Accel_Z,Gyro_X,Gyro_Y,Gyro_Z,Activity
-0.01,-0.02,9.81,0.05,0.01,-0.03,Walking
-0.04,0.02,9.78,0.07,0.02,-0.01,Running
+Gyro_X,Gyro_Y,Gyro_Z,Activity
+0.05,0.01,-0.03,Walking
+0.07,0.02,-0.01,Running
 ...
 ```
 
